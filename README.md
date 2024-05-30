@@ -48,7 +48,7 @@ git add . && git commit -m "initial commit"
 соединить git удаленный с локальным, *USER* (пользователь) и *REPO* (репозиторий)
 
 ```properties
-git remote add origin https://github.com/StasZ2023/21.git
+git remote add origin https://github.com/StasZ2023/maket16.git
 ```
 
 проверить на то что есть соединение
